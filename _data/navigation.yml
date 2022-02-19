@@ -2,9 +2,7 @@
 main:
   #- title: "Home"
   #  url: "/"
-  - title: "Introduce"
-    url: /about/
-  - title: "Category"
+  - title: "Machine-Learning"
     url: "/categories/"
-  - title: "Tags"
+  - title: "Causal-Inference"
     url: /tags/
