@@ -1,5 +1,5 @@
 ---
-title: "Posts by MLops Projects"
+title: "Posts by Machine-Learning Projects"
 permalink: /categories/
 layout: categories
 author_profile: true
