@@ -20,7 +20,7 @@ title                    : "Portfolio"
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "GunLyung You"
-description              : "Data Science Project"
+description              : "Data Scientist"
 url                      : "https://gunlyungyou.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "GunLyung You"
   avatar           : "/assets/images/avatar.jpg"
-  bio              : "Data Science Project"
+  bio              : "Data Scientist"
   location         : "South Korea, Nexon"
   email            : "rjsfud9@naver.com"
   links:
