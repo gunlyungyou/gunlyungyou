@@ -251,9 +251,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-category_archive:
+about-archive:
   type: liquid
-  path: /about/
+  path: /udas/
 tag_archive:
   type: liquid
   path: /tags/

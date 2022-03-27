@@ -6,5 +6,3 @@ main:
     url: "/categories/"
   - title: "Causal-Inference"
     url: /tags/
-  - title: "Unstructed-Data-Analysis"
-    url: /about/
